@@ -1,19 +1,19 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
-#three .image-wrapper span.image {
+#four .image-wrapper span.image {
 	position: relative;
-	margin: 0 auto; /* ?? */
+	margin: 0 auto;
 }
 
-#three .image-wrapper span.image img {
+#four .image-wrapper span.image img {
 	width: 100%;
 	height: auto;
 	padding: 0;
 	background-position: center top;
 }
 
-#three .image-wrapper span.image .image-text {
+#four .image-wrapper span.image .image-text {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -29,7 +29,7 @@
 	text-align: center;
 }
 
-#three .image-wrapper span.image .image-text h5 {
+#four .image-wrapper span.image .image-text h5 {
 	color: #fff;
 	text-shadow: 2px 2px 2px #000;
 	text-align: center;
