@@ -122,6 +122,7 @@
 	.google-form-wrapper {
 		position: relative; 
 		overflow: hidden; 
+		padding-top: 250%;
 	}
 
 	.google-form-wrapper .google-form {
